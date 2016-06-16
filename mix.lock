@@ -1,0 +1,4 @@
+%{"exjsx": {:hex, :exjsx, "3.2.0", "7136cc739ace295fc74c378f33699e5145bead4fdc1b4799822d0287489136fb", [:mix], [{:jsx, "~> 2.6.2", [hex: :jsx, optional: false]}]},
+  "jsx": {:hex, :jsx, "2.6.2", "213721e058da0587a4bce3cc8a00ff6684ced229c8f9223245c6ff2c88fbaa5a", [:mix, :rebar], []},
+  "scrivener": {:git, "https://github.com/drewolson/scrivener", "463cb07fe3dc52f0ec686bb3bdbb2621a33aa42d", [branch: "v2"]},
+  "tirexs": {:hex, :tirexs, "0.8.2", "2852ea558b7180b81e5c31884c6a2c99c9ef677d2f653fbc56c5cb6885d29e45", [:mix], [{:exjsx, "~> 3.2.0", [hex: :exjsx, optional: false]}]}}
