@@ -29,7 +29,7 @@ defmodule ScrivenerElasticsearch.Mixfile do
   #
   # Type "mix help deps" for more examples and options
   defp deps do
-    [{:scrivener, git: "https://github.com/drewolson/scrivener", branch: "v2"},
+    [{:scrivener, "~> 2.0"},
      {:tirexs, "~> 0.8"}]
   end
 
